@@ -1,4 +1,4 @@
 # payments-System-
 using JAVA
 
-<img src="iamge.png" >
+<img src="image.png" >
